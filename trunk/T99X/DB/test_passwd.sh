@@ -13,7 +13,7 @@ echo '[
 "user":"PIPE_OWNER2",
 "db_name":"RTOTA",
 "db_alias":"RTOTA_IPX",
-"rc":2,
+"rc":0,
 "res_array":["","pwdtool: Heslo uzivatele -->PIPE_OWNER2<-- pro databazi -->RTOTA<-- nebylo nalezeno !"]
 }
 ]' > /srv/data/remote/ipc/.patchdir/.pipeline/T99X/INC040/DB/test_db_users.log
